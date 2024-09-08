@@ -12,6 +12,7 @@ A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
+
 answer is B (dowload the Dart DDK) 
 
 2. Which command verifies the Dart installation on macOS?
@@ -39,7 +40,8 @@ B) flutter build
 C) flutter run
 D) flutter init
 
-C) flutter eun
+C) flutter run
+
 #Python Installation
 
 What is the first step to install Python on a Windows system?
